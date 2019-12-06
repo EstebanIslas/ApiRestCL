@@ -1,0 +1,7 @@
+/*Configuracion interpretes nuevos de js*/
+
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
